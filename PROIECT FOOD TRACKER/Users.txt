@@ -1,0 +1,10 @@
+Nume: Dragomir Sergiu-Andrei
+Varsta: 19
+Inaltime: 179
+Greutate: 68
+Scop: Mentinere
+Metabolism: Normal
+Activitate Fizica: Usoara
+Greutate Dorita: 68
+Sex: Male
+*********************************************

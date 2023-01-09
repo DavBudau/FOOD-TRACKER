@@ -1,0 +1,22 @@
+Nume: Lays
+Calori: 342kcal
+Grasimi: 32g
+Acizi grasi saturati: 34g
+Glucide: 32g
+Zaharuri: 34g
+Fibre: 23g
+Proteine: 43g
+Sare: 23g
+Cantitate: 434g
+*********************************************
+Nume: Snickers
+Calori: 34kcal
+Grasimi: 324g
+Acizi grasi saturati: 432g
+Glucide: 324g
+Zaharuri: 32g
+Fibre: 32g
+Proteine: 3g
+Sare: 4g
+Cantitate: 5g
+*********************************************
